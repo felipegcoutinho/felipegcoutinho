@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe Coutinho</h1>
+<h1 align="center">Hi ✌️, I'm Felipe Coutinho</h1>
 <h3 align="center">A passionate frontend developer Student from Brazil</h3>
 
 - 🌱 I’m currently learning **ReactJS**, **Javascript**.
