@@ -20,7 +20,7 @@
 
 ### Sobre
 
-Profissional de TI com experiência em suporte técnico, redes e infraestrutura, com foco crescente em desenvolvimento full-stack. Criador do **OpenSheets**, uma plataforma open-source de gestão financeira pessoal com quase 200 stars no GitHub.
+Profissional de TI com experiência em suporte técnico, redes e infraestrutura, com foco crescente em desenvolvimento full-stack. Criador do **OpenMonetis**, uma plataforma open-source de gestão financeira pessoal com quase 200 stars no GitHub.
 
 ---
 
