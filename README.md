@@ -79,10 +79,3 @@ Profissional de TI com experiência em suporte técnico, redes e infraestrutura,
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipegcoutinho&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide_title=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegcoutinho&layout=compact&theme=github_dark_dimmed&hide_border=true&hide_title=true" height="150" alt="Top Languages"/>
-</p>
