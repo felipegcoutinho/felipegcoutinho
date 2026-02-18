@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Coutinho</h1>
 <p align="center">
   <strong>Full-Stack Developer & IT Infrastructure</strong><br>
-  Santa Catarina, Brasil
+  Santa Catarina, Brazil
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ---
 
-### Sobre
+### About
 
-Profissional de TI com experiência em suporte técnico, redes e infraestrutura, com foco crescente em desenvolvimento full-stack. Criador do **OpenMonetis**, uma plataforma open-source de gestão financeira pessoal com quase 200 stars no GitHub.
+IT professional with experience in technical support, networking, and infrastructure, with a growing focus on full-stack development. Creator of **OpenMonetis**, an open-source personal finance management platform with nearly 200 stars on GitHub.
 
 ---
 
