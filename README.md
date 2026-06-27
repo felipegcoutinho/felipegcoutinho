@@ -47,14 +47,6 @@ IT professional with experience in technical support, networking, and infrastruc
     </td>
   </tr>
   <tr>
-    <td><strong>Mobile</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-    </td>
-  </tr>
-  <tr>
     <td><strong>Infra & DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
