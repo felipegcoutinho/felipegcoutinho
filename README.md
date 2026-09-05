@@ -11,9 +11,6 @@
   <a href="https://linkedin.com/in/felipegcoutinho">
     <img src="https://img.shields.io/badge/LinkedIn-felipegcoutinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:eu@felipecoutinho.com">
-    <img src="https://img.shields.io/badge/Email-eu%40felipecoutinho.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
