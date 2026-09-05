@@ -8,9 +8,6 @@
   <a href="https://felipecoutinho.com">
     <img src="https://img.shields.io/badge/Website-felipecoutinho.com-f97316?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://linkedin.com/in/felipegcoutinho">
-    <img src="https://img.shields.io/badge/LinkedIn-felipegcoutinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
